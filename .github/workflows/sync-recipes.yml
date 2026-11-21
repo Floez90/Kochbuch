@@ -1,0 +1,51 @@
+name: Rezepte synchronisieren & Index aktualisieren
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - '**.json'
+      - '!recipes-index.json'
+  schedule:
+    # Läuft täglich um 07:00 Uhr deutscher Zeit (06:00 UTC)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Erlaubt manuellen Start per Button im Tab "Actions"
+
+permissions:
+  contents: write
+
+jobs:
+  sync-and-index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Rezepte aus Google Drive ziehen (falls Secrets gesetzt)
+        if: ${{ secrets.GDRIVE_SERVICE_ACCOUNT_JSON != '' && secrets.GDRIVE_FOLDER_ID != '' }}
+        env:
+          GDRIVE_SERVICE_ACCOUNT_JSON: ${{ secrets.GDRIVE_SERVICE_ACCOUNT_JSON }}
+          GDRIVE_FOLDER_ID: ${{ secrets.GDRIVE_FOLDER_ID }}
+        run: |
+          pip install --quiet google-api-python-client google-auth
+          python sync_from_drive.py
+
+      - name: recipes-index.json aktualisieren
+        run: python update_index.py
+
+      - name: Änderungen committen und pushen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add recipes/ recipes-index.json
+          if git diff --staged --quiet; then
+            echo "Keine Änderungen vorhanden."
+          else
+            git commit -m "chore: Rezepte & Index automatisch aktualisiert"
+            git push
+          fi
