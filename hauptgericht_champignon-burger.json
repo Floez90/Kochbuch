@@ -1,0 +1,174 @@
+{
+  "schema_version": "1.1",
+  "id": "hauptgericht_champignon-burger",
+  "title": "Champignon-Burger",
+  "subtitle": "Saftiger Burger mit marinierten Riesenchampignons, Rotweinzwiebeln und Aioli",
+  "category": "hauptgericht",
+  "tags": [
+    "vegan",
+    "burger",
+    "pilze",
+    "ofen"
+  ],
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 20,
+  "total_time_minutes": 30,
+  "servings": {
+    "amount": 2,
+    "unit": "Portionen"
+  },
+  "dietary": {
+    "vegan": true,
+    "gluten_free": false,
+    "sugar_free": false,
+    "toddler_friendly": false
+  },
+  "child_info": {
+    "toddler_friendly": false,
+    "adaptation_notes": "Wegen Rotwein, Chili und Sojasauce nicht direkt für Kleinkinder; für Kinder eine separate Pilzportion ohne Rotwein/Chili nur mit etwas Öl braten.",
+    "allergens_and_notes": [
+      "Gluten",
+      "Soja",
+      "Pilze",
+      "Alkohol (Rotwein)"
+    ]
+  },
+  "ingredients": [
+    {
+      "group": "Hauptzutaten",
+      "items": [
+        {
+          "name": "Riesenchampignons",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Burgerbrötchen",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Zwiebeln",
+          "amount": null,
+          "unit": "",
+          "note": "fein geschnitten",
+          "optional": false
+        },
+        {
+          "name": "Rotwein",
+          "amount": null,
+          "unit": "",
+          "note": "zum Ablöschen der Zwiebeln",
+          "optional": false
+        },
+        {
+          "name": "Knoblauch",
+          "amount": null,
+          "unit": "",
+          "note": "gepresst",
+          "optional": false
+        },
+        {
+          "name": "Rosmarin",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Sojasauce",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Pflanzenöl",
+          "amount": null,
+          "unit": "",
+          "note": "für die Marinade",
+          "optional": false
+        },
+        {
+          "name": "Zucker",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Pfeffer",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Chili",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Aioli",
+          "amount": null,
+          "unit": "",
+          "note": "vegan",
+          "optional": false
+        },
+        {
+          "name": "Gewürzketchup (Hela)",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "mise_en_place": [
+    "Pilze putzen.",
+    "Zwiebeln fein schneiden, Knoblauch pressen."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "title": "Marinade anrühren",
+      "instruction": "Marinade aus Öl, Sojasauce, gepresstem Knoblauch, Rosmarin, Zucker, Pfeffer und Chili zusammenrühren und mit dem Stiel nach oben in die Pilze füllen.",
+      "duration_minutes": 5,
+      "temperature_celsius": null
+    },
+    {
+      "step_number": 2,
+      "title": "Pilze garen",
+      "instruction": "Die gefüllten Pilze entweder anbraten oder ca. 20 Minuten im Ofen backen.",
+      "duration_minutes": 20,
+      "temperature_celsius": 200
+    },
+    {
+      "step_number": 3,
+      "title": "Rotweinzwiebeln braten",
+      "instruction": "Fein geschnittene Zwiebeln mit etwas Zucker anbraten und mit Rotwein ablöschen.",
+      "duration_minutes": 8,
+      "temperature_celsius": null
+    },
+    {
+      "step_number": 4,
+      "title": "Burger bauen",
+      "instruction": "Alles mit Burgerbrötchen, Aioli und Gewürzketchup zu einem Burger zusammenführen.",
+      "duration_minutes": 2,
+      "temperature_celsius": null
+    }
+  ],
+  "notes": [
+    "Importiert aus Rezepte2.pdf."
+  ],
+  "toddler_notes": "Wegen Rotwein, Chili und Sojasauce nicht direkt für Kleinkinder; für Kinder eine separate Pilzportion ohne Rotwein/Chili nur mit etwas Öl braten.",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

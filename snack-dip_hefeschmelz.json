@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.1",
+  "id": "snack-dip_hefeschmelz",
+  "title": "Hefeschmelz (Grundrezept)",
+  "subtitle": "Cremiger veganer Käseersatz zum Überbacken von Lasagne, Aufläufen und Blätterteig",
+  "category": "snack-dip",
+  "tags": [
+    "vegan",
+    "grundrezept",
+    "hefeschmelz",
+    "ueberbacken"
+  ],
+  "prep_time_minutes": 5,
+  "cook_time_minutes": 10,
+  "total_time_minutes": 15,
+  "servings": {
+    "amount": 4,
+    "unit": "Portionen"
+  },
+  "dietary": {
+    "vegan": true,
+    "gluten_free": false,
+    "sugar_free": true,
+    "toddler_friendly": true
+  },
+  "child_info": {
+    "toddler_friendly": true,
+    "adaptation_notes": "Sparsam salzen und milden Senf verwenden.",
+    "allergens_and_notes": [
+      "Gluten (bei Mehl)",
+      "Senf",
+      "Soja (bei Sojamilch/Misopaste)"
+    ]
+  },
+  "ingredients": [
+    {
+      "group": "Hauptzutaten",
+      "items": [
+        {
+          "name": "Margarine",
+          "amount": null,
+          "unit": "",
+          "note": "vegan",
+          "optional": false
+        },
+        {
+          "name": "Mehl / Speisestärke",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Pflanzenmilch",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Frische Hefe / Hefeflocken / Hefeextrakt",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Senf",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Salz",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Misopaste",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "mise_en_place": [
+    "Zutaten abmessen und Schneebesen bereitlegen."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "title": "Mehlschwitze anrühren",
+      "instruction": "Margarine schmelzen, Mehl oder Stärke einrühren und mit Pflanzenmilch unter Rühren aufkochen, bis eine cremige Sauce entsteht.",
+      "duration_minutes": 7,
+      "temperature_celsius": null
+    },
+    {
+      "step_number": 2,
+      "title": "Würzen",
+      "instruction": "Hefe/Hefeflocken, Senf, Salz und optional Misopaste einrühren und glattrühren.",
+      "duration_minutes": 3,
+      "temperature_celsius": null
+    }
+  ],
+  "notes": [
+    "Importiert aus Rezepte.pdf (Grundrezept für Lasagne, Gefüllten Blätterteig und Bananenburger)."
+  ],
+  "toddler_notes": "Sparsam salzen und milden Senf verwenden.",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

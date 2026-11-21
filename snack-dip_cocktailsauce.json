@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.1",
+  "id": "snack-dip_cocktailsauce",
+  "title": "Cocktailsauce (Grundrezept)",
+  "subtitle": "Schnelle vegane Döner- und Dip-Sauce aus Sojajoghurt, Ketchup und Aioli",
+  "category": "snack-dip",
+  "tags": [
+    "vegan",
+    "grundrezept",
+    "dip",
+    "sauce",
+    "schnell"
+  ],
+  "prep_time_minutes": 5,
+  "cook_time_minutes": 0,
+  "total_time_minutes": 5,
+  "servings": {
+    "amount": 4,
+    "unit": "Portionen"
+  },
+  "dietary": {
+    "vegan": true,
+    "gluten_free": true,
+    "sugar_free": false,
+    "toddler_friendly": true
+  },
+  "child_info": {
+    "toddler_friendly": true,
+    "adaptation_notes": "Sparsam salzen und idealerweise zuckerarmen Ketchup nutzen.",
+    "allergens_and_notes": [
+      "Soja"
+    ]
+  },
+  "ingredients": [
+    {
+      "group": "Hauptzutaten",
+      "items": [
+        {
+          "name": "Sojajoghurt",
+          "amount": null,
+          "unit": "",
+          "note": "natur, ungesüßt",
+          "optional": false
+        },
+        {
+          "name": "Ketchup",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Aioli",
+          "amount": null,
+          "unit": "",
+          "note": "vegan",
+          "optional": false
+        },
+        {
+          "name": "Salz",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Kreuzkümmel",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "mise_en_place": [
+    "Schüssel und Löffel bereitstellen."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "title": "Verrühren",
+      "instruction": "Sojajoghurt, Ketchup und Aioli glatt verrühren und mit Salz sowie optional Kreuzkümmel abschmecken.",
+      "duration_minutes": 5,
+      "temperature_celsius": null
+    }
+  ],
+  "notes": [
+    "Importiert aus Rezepte.pdf (Grundrezept für Döner)."
+  ],
+  "toddler_notes": "Sparsam salzen und idealerweise zuckerarmen Ketchup nutzen.",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

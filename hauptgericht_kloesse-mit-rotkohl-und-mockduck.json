@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.1",
+  "id": "hauptgericht_kloesse-mit-rotkohl-und-mockduck",
+  "title": "Klöße mit Rotkohl und Mockduck",
+  "subtitle": "Deftiger Klassiker mit Kartoffelklößen, Rotkohl und würzigem Mockduck",
+  "category": "hauptgericht",
+  "tags": [
+    "vegan",
+    "hausmannskost",
+    "mockduck",
+    "rotkohl"
+  ],
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 25,
+  "total_time_minutes": 35,
+  "servings": {
+    "amount": 4,
+    "unit": "Portionen"
+  },
+  "dietary": {
+    "vegan": true,
+    "gluten_free": false,
+    "sugar_free": true,
+    "toddler_friendly": true
+  },
+  "child_info": {
+    "toddler_friendly": true,
+    "adaptation_notes": "Mockduck sparsam mit Sojasauce würzen und in kleine Stücke schneiden; passt hervorragend mit der Grundrezept-Bratensauce.",
+    "allergens_and_notes": [
+      "Gluten",
+      "Soja"
+    ]
+  },
+  "ingredients": [
+    {
+      "group": "Hauptzutaten",
+      "items": [
+        {
+          "name": "Klöße",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Rotkohl",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Mockduck",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Sojasauce",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": true
+        },
+        {
+          "name": "Koriandersamen",
+          "amount": null,
+          "unit": "",
+          "note": "gemahlen",
+          "optional": true
+        },
+        {
+          "name": "Bratensauce",
+          "amount": null,
+          "unit": "",
+          "note": "siehe Grundrezept Bratensauce",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "mise_en_place": [
+    "Wasser für die Klöße aufsetzen."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "title": "Klöße und Rotkohl garen",
+      "instruction": "Klöße nach Packungsanleitung garen und Rotkohl erwärmen.",
+      "duration_minutes": 20,
+      "temperature_celsius": null
+    },
+    {
+      "step_number": 2,
+      "title": "Mockduck braten",
+      "instruction": "Mockduck knusprig anbraten, optional mit Sojasauce und gemahlenen Koriandersamen würzen und zusammen mit Klößen, Rotkohl (und optional Bratensauce) servieren.",
+      "duration_minutes": 10,
+      "temperature_celsius": null
+    }
+  ],
+  "notes": [
+    "Importiert aus Rezepte.pdf."
+  ],
+  "toddler_notes": "Mockduck sparsam mit Sojasauce würzen und in kleine Stücke schneiden; passt hervorragend mit der Grundrezept-Bratensauce.",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

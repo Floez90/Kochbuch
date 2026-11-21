@@ -1,0 +1,138 @@
+{
+  "schema_version": "1.1",
+  "id": "beilage_bolognese",
+  "title": "Bolognese (Grundrezept)",
+  "subtitle": "Aromatische vegane Bolognese-Basis mit Räuchertofu, Möhren, Rotwein und italienischen Kräutern",
+  "category": "beilage",
+  "tags": [
+    "vegan",
+    "grundrezept",
+    "bolognese",
+    "sauce",
+    "raeuchertofu"
+  ],
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 25,
+  "total_time_minutes": 35,
+  "servings": {
+    "amount": 4,
+    "unit": "Portionen"
+  },
+  "dietary": {
+    "vegan": true,
+    "gluten_free": true,
+    "sugar_free": true,
+    "toddler_friendly": true
+  },
+  "child_info": {
+    "toddler_friendly": true,
+    "adaptation_notes": "Für Kleinkinder den Rotwein weglassen (durch etwas Gemüsebrühe ersetzen) und vor dem finalen Salzen eine Portion abnehmen.",
+    "allergens_and_notes": [
+      "Soja",
+      "Alkohol (bei Verwendung von Rotwein)"
+    ]
+  },
+  "ingredients": [
+    {
+      "group": "Hauptzutaten",
+      "items": [
+        {
+          "name": "Räuchertofu",
+          "amount": null,
+          "unit": "",
+          "note": "fein zerkrümelt",
+          "optional": false
+        },
+        {
+          "name": "Zwiebeln",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Knoblauch",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Möhre",
+          "amount": null,
+          "unit": "",
+          "note": "fein gewürfelt oder geraspelt",
+          "optional": false
+        },
+        {
+          "name": "Passierte Tomaten",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Rotwein",
+          "amount": null,
+          "unit": "",
+          "note": "zum Ablöschen",
+          "optional": false
+        },
+        {
+          "name": "Rosmarin",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Oregano",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Salz",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Pfeffer",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "mise_en_place": [
+    "Räuchertofu zerkrümeln.",
+    "Zwiebeln, Knoblauch und Möhre fein würfeln."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "title": "Anbraten",
+      "instruction": "Räuchertofu scharf anbraten, dann Zwiebeln, Knoblauch und Möhre dazugeben und mitbraten.",
+      "duration_minutes": 10,
+      "temperature_celsius": null
+    },
+    {
+      "step_number": 2,
+      "title": "Ablöschen und köcheln",
+      "instruction": "Mit Rotwein ablöschen, passierte Tomaten sowie Rosmarin und Oregano zugeben, einköcheln lassen und mit Salz und Pfeffer abschmecken.",
+      "duration_minutes": 15,
+      "temperature_celsius": null
+    }
+  ],
+  "notes": [
+    "Importiert aus Rezepte.pdf (Grundrezept für Lasagne, Spaghetti Bolognese und Gefüllten Blätterteig)."
+  ],
+  "toddler_notes": "Für Kleinkinder den Rotwein weglassen (durch etwas Gemüsebrühe ersetzen) und vor dem finalen Salzen eine Portion abnehmen.",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

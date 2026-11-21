@@ -1,0 +1,182 @@
+{
+  "schema_version": "1.1",
+  "id": "hauptgericht_bananenburger",
+  "title": "Bananenburger",
+  "subtitle": "Besonderer veganer Burger mit Räuchertofu-Erdnuss-Tahin-Patty und kandierten Bananen",
+  "category": "hauptgericht",
+  "tags": [
+    "vegan",
+    "burger",
+    "banane",
+    "raeuchertofu"
+  ],
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 15,
+  "total_time_minutes": 30,
+  "servings": {
+    "amount": 2,
+    "unit": "Portionen"
+  },
+  "dietary": {
+    "vegan": true,
+    "gluten_free": false,
+    "sugar_free": false,
+    "toddler_friendly": true
+  },
+  "child_info": {
+    "toddler_friendly": true,
+    "adaptation_notes": "Für Kleinkinder die Bananen ohne Zucker anbraten, Erdnüsse sehr fein mahlen (keine ganzen Stücke) und wenig Sojasauce verwenden.",
+    "allergens_and_notes": [
+      "Erdnüsse",
+      "Sesam (Tahin)",
+      "Soja",
+      "Gluten",
+      "Senf"
+    ]
+  },
+  "ingredients": [
+    {
+      "group": "Patty & Belag",
+      "items": [
+        {
+          "name": "Räuchertofu",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Knoblauch",
+          "amount": null,
+          "unit": "",
+          "note": "fein gehackt",
+          "optional": false
+        },
+        {
+          "name": "Zwiebeln",
+          "amount": null,
+          "unit": "",
+          "note": "fein gehackt",
+          "optional": false
+        },
+        {
+          "name": "Tahin",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Erdnüsse",
+          "amount": null,
+          "unit": "",
+          "note": "fein gehackt",
+          "optional": false
+        },
+        {
+          "name": "Mehl",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Sojasauce",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Bananen",
+          "amount": null,
+          "unit": "",
+          "note": "halbe Banane im Patty, Rest zum Kandieren",
+          "optional": false
+        },
+        {
+          "name": "Senf",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Zucker",
+          "amount": null,
+          "unit": "",
+          "note": "zum Kandieren",
+          "optional": false
+        },
+        {
+          "name": "Salat",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Tomaten",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Gurken",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Aioli",
+          "amount": null,
+          "unit": "",
+          "note": "vegan",
+          "optional": false
+        },
+        {
+          "name": "Hefeschmelz",
+          "amount": null,
+          "unit": "",
+          "note": "siehe Grundrezept",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "mise_en_place": [
+    "Zwiebeln, Knoblauch und Erdnüsse fein hacken.",
+    "Salat, Gurke und Tomaten schneiden."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "title": "Patties formen",
+      "instruction": "Zwiebeln, Knoblauch und Erdnüsse fein hacken und zusammen mit Räuchertofu, Tahin, Mehl, einer halben Banane, Sojasauce und Senf zu Buletten formen und etwas ruhen lassen, dann braten.",
+      "duration_minutes": 15,
+      "temperature_celsius": null
+    },
+    {
+      "step_number": 2,
+      "title": "Bananen kandieren",
+      "instruction": "Zucker in eine Pfanne geben und Bananen darin von beiden Seiten kandieren.",
+      "duration_minutes": 5,
+      "temperature_celsius": null
+    },
+    {
+      "step_number": 3,
+      "title": "Burger zusammenbauen",
+      "instruction": "Burger mit Patty, kandierten Bananen, Salat, Gurke, Tomaten, Aioli und optional Hefeschmelz zusammenbauen.",
+      "duration_minutes": 5,
+      "temperature_celsius": null
+    }
+  ],
+  "notes": [
+    "Importiert aus Rezepte2.pdf."
+  ],
+  "toddler_notes": "Für Kleinkinder die Bananen ohne Zucker anbraten, Erdnüsse sehr fein mahlen (keine ganzen Stücke) und wenig Sojasauce verwenden.",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

@@ -1,0 +1,223 @@
+{
+  "schema_version": "1.1",
+  "id": "hauptgericht_helles-curry",
+  "title": "Helles Curry",
+  "subtitle": "Cremiges gelbes Kokos-Erdnuss-Curry mit Tofu, Kichererbsen und buntem Gemüse",
+  "category": "hauptgericht",
+  "tags": [
+    "vegan",
+    "curry",
+    "kokosmilch",
+    "tofu",
+    "reis"
+  ],
+  "prep_time_minutes": 20,
+  "cook_time_minutes": 40,
+  "total_time_minutes": 60,
+  "servings": {
+    "amount": 4,
+    "unit": "Portionen"
+  },
+  "dietary": {
+    "vegan": true,
+    "gluten_free": false,
+    "sugar_free": true,
+    "toddler_friendly": true
+  },
+  "child_info": {
+    "toddler_friendly": true,
+    "adaptation_notes": "Ganze Erdnüsse für Kleinkinder weglassen oder fein hacken (Erstickungsgefahr); vor dem finalen Salzen/Sojasauce eine Portion abnehmen und Limettenblätter entfernen.",
+    "allergens_and_notes": [
+      "Erdnüsse",
+      "Soja",
+      "Gluten (in normaler Sojasauce)"
+    ]
+  },
+  "ingredients": [
+    {
+      "group": "Hauptzutaten",
+      "items": [
+        {
+          "name": "Frischer Tofu",
+          "amount": null,
+          "unit": "",
+          "note": "in Würfel geschnitten",
+          "optional": false
+        },
+        {
+          "name": "Möhren",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Zwiebeln",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Knoblauch",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Ingwer",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Limettenblätter",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Currypaste (gelb)",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Kokosmilch",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Champignons",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Brokkoli",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Zuckerschoten",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Erdnüsse",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Kichererbsen",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Erdnussbutter",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Rosinen",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": true
+        },
+        {
+          "name": "Salz",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Pfeffer",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Sojasauce",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Reis",
+          "amount": null,
+          "unit": "",
+          "note": "als Beilage",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "mise_en_place": [
+    "Tofu würfeln.",
+    "Möhren, Zwiebeln, Knoblauch, Ingwer, Champignons, Brokkoli und Zuckerschoten schneiden."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "title": "Tofu anbraten",
+      "instruction": "Tofu in Würfel schneiden und mit etwas Öl und der gelben Currypaste anbraten.",
+      "duration_minutes": 8,
+      "temperature_celsius": null
+    },
+    {
+      "step_number": 2,
+      "title": "Reis kochen",
+      "instruction": "Reis parallel garen.",
+      "duration_minutes": 15,
+      "temperature_celsius": null
+    },
+    {
+      "step_number": 3,
+      "title": "Zwiebeln und Gemüse anbraten",
+      "instruction": "Zwiebeln und Gewürze (Knoblauch, Ingwer, Limettenblätter) hinzugeben. Beliebiges Gemüse je nach Garzeit nach und nach hinzufügen.",
+      "duration_minutes": 12,
+      "temperature_celsius": null
+    },
+    {
+      "step_number": 4,
+      "title": "Ablöschen und köcheln",
+      "instruction": "Mit Kokosmilch ablöschen, Erdnussbutter, Kichererbsen und Erdnüsse zugeben und etwas köcheln lassen.",
+      "duration_minutes": 15,
+      "temperature_celsius": null
+    },
+    {
+      "step_number": 5,
+      "title": "Abschmecken und servieren",
+      "instruction": "Mit Salz, Pfeffer und Sojasauce abschmecken und mit Reis servieren.",
+      "duration_minutes": 5,
+      "temperature_celsius": null
+    }
+  ],
+  "notes": [
+    "Importiert aus Rezepte2.pdf (auch als 'Gelbes Curry' in Rezepte.pdf)."
+  ],
+  "toddler_notes": "Ganze Erdnüsse für Kleinkinder weglassen oder fein hacken (Erstickungsgefahr); vor dem finalen Salzen/Sojasauce eine Portion abnehmen und Limettenblätter entfernen.",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

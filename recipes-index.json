@@ -1,0 +1,25 @@
+{
+  "updated_at": "2026-11-21",
+  "count": 19,
+  "recipes": [
+    "beilage_bolognese.json",
+    "beilage_bratensauce.json",
+    "beilage_marinierter-tempeh.json",
+    "hauptgericht_bananenburger.json",
+    "hauptgericht_champignon-burger.json",
+    "hauptgericht_chili-sin-carne.json",
+    "hauptgericht_doener.json",
+    "hauptgericht_enchiladas.json",
+    "hauptgericht_gefuellter-blaetterteig.json",
+    "hauptgericht_helles-curry.json",
+    "hauptgericht_kloesse-mit-rotkohl-und-mockduck.json",
+    "hauptgericht_lasagne.json",
+    "hauptgericht_okra-curry.json",
+    "hauptgericht_sahne-zwiebelsauce-linguine-kraeuterseitlinge.json",
+    "hauptgericht_seitan-shawarma-style.json",
+    "hauptgericht_spaghetti-bolognese.json",
+    "hauptgericht_tempeh-aioli-krautsalat-sandwich.json",
+    "snack-dip_cocktailsauce.json",
+    "snack-dip_hefeschmelz.json"
+  ]
+}

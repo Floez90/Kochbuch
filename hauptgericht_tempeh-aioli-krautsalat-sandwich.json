@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.1",
+  "id": "hauptgericht_tempeh-aioli-krautsalat-sandwich",
+  "title": "Tempeh-Aioli-Krautsalat-Sandwich",
+  "subtitle": "Knuspriges getoastetes Sandwich mit mariniertem Tempeh, Aioli, Krautsalat und Jalapeños",
+  "category": "hauptgericht",
+  "tags": [
+    "vegan",
+    "sandwich",
+    "tempeh",
+    "schnell"
+  ],
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 15,
+  "total_time_minutes": 30,
+  "servings": {
+    "amount": 2,
+    "unit": "Portionen"
+  },
+  "dietary": {
+    "vegan": true,
+    "gluten_free": false,
+    "sugar_free": false,
+    "toddler_friendly": true
+  },
+  "child_info": {
+    "toddler_friendly": true,
+    "adaptation_notes": "Jalapeños und Gewürzketchup für Kleinkinder weglassen; Brot in handliche Streifen schneiden und Tempeh mild anbraten.",
+    "allergens_and_notes": [
+      "Soja",
+      "Gluten"
+    ]
+  },
+  "ingredients": [
+    {
+      "group": "Hauptzutaten",
+      "items": [
+        {
+          "name": "Marinierter Tempeh",
+          "amount": null,
+          "unit": "",
+          "note": "siehe Grundrezept Marinierter Tempeh",
+          "optional": false
+        },
+        {
+          "name": "Brot",
+          "amount": null,
+          "unit": "",
+          "note": "getoastet",
+          "optional": false
+        },
+        {
+          "name": "Aioli",
+          "amount": null,
+          "unit": "",
+          "note": "vegan",
+          "optional": false
+        },
+        {
+          "name": "Krautsalat",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Jalapeños",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Gewürzketchup (Hela)",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "mise_en_place": [
+    "Tempeh nach Grundrezept marinieren.",
+    "Krautsalat und Jalapeños bereitstellen."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "title": "Tempeh anbraten",
+      "instruction": "Den marinierten Tempeh in einer Pfanne knusprig anbraten.",
+      "duration_minutes": 10,
+      "temperature_celsius": null
+    },
+    {
+      "step_number": 2,
+      "title": "Sandwich bauen",
+      "instruction": "Brot toasten und mit Aioli, angebratenem Tempeh, Krautsalat, Jalapeños und optional Gewürzketchup zu einem Sandwich stapeln.",
+      "duration_minutes": 5,
+      "temperature_celsius": null
+    }
+  ],
+  "notes": [
+    "Importiert aus Rezepte2.pdf."
+  ],
+  "toddler_notes": "Jalapeños und Gewürzketchup für Kleinkinder weglassen; Brot in handliche Streifen schneiden und Tempeh mild anbraten.",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

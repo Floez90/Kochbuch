@@ -1,0 +1,129 @@
+{
+  "schema_version": "1.1",
+  "id": "beilage_marinierter-tempeh",
+  "title": "Marinierter Tempeh (Grundrezept)",
+  "subtitle": "Würzige Marinade für Tempeh mit Sojasauce, Knoblauch, Koriander und Bockshornklee",
+  "category": "beilage",
+  "tags": [
+    "vegan",
+    "grundrezept",
+    "tempeh",
+    "marinade"
+  ],
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 10,
+  "total_time_minutes": 20,
+  "servings": {
+    "amount": 2,
+    "unit": "Portionen"
+  },
+  "dietary": {
+    "vegan": true,
+    "gluten_free": false,
+    "sugar_free": false,
+    "toddler_friendly": true
+  },
+  "child_info": {
+    "toddler_friendly": true,
+    "adaptation_notes": "Für Kleinkinder nur dünn marinieren (wegen Salzgehalt der Sojasauce und Zucker).",
+    "allergens_and_notes": [
+      "Soja",
+      "Gluten (in normaler Sojasauce)"
+    ]
+  },
+  "ingredients": [
+    {
+      "group": "Marinade & Basis",
+      "items": [
+        {
+          "name": "Tempeh",
+          "amount": null,
+          "unit": "",
+          "note": "in Scheiben",
+          "optional": false
+        },
+        {
+          "name": "Knoblauch",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Sojasauce",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Zucker",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Pfeffer",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Oregano",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Koriandersamen",
+          "amount": null,
+          "unit": "",
+          "note": "gemahlen",
+          "optional": false
+        },
+        {
+          "name": "Bockshornkleesamen",
+          "amount": null,
+          "unit": "",
+          "note": "gemahlen",
+          "optional": false
+        },
+        {
+          "name": "Pflanzenöl",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "mise_en_place": [
+    "Tempeh in gleichmäßige Scheiben schneiden und Knoblauch pressen."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "title": "Marinieren",
+      "instruction": "Alle Marinadenzutaten verrühren und den Tempeh darin wenden und durchziehen lassen.",
+      "duration_minutes": 10,
+      "temperature_celsius": null
+    },
+    {
+      "step_number": 2,
+      "title": "Anbraten",
+      "instruction": "Den marinierten Tempeh in einer Pfanne von beiden Seiten goldbraun braten.",
+      "duration_minutes": 10,
+      "temperature_celsius": null
+    }
+  ],
+  "notes": [
+    "Importiert aus Rezepte.pdf (Grundrezept für das Tempeh-Aioli-Krautsalat-Sandwich)."
+  ],
+  "toddler_notes": "Für Kleinkinder nur dünn marinieren (wegen Salzgehalt der Sojasauce und Zucker).",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

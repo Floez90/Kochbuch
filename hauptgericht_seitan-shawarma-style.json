@@ -1,0 +1,192 @@
+{
+  "schema_version": "1.1",
+  "id": "hauptgericht_seitan-shawarma-style",
+  "title": "Seitan (Shawarma Style)",
+  "subtitle": "Würziger, im Ofen gebackener Seitan mit orientalischer Gewürznote und süß-scharfer Glasur",
+  "category": "hauptgericht",
+  "tags": [
+    "vegan",
+    "seitan",
+    "shawarma",
+    "ofen",
+    "proteinreich"
+  ],
+  "prep_time_minutes": 20,
+  "cook_time_minutes": 15,
+  "total_time_minutes": 35,
+  "servings": {
+    "amount": 4,
+    "unit": "Portionen"
+  },
+  "dietary": {
+    "vegan": true,
+    "gluten_free": false,
+    "sugar_free": false,
+    "toddler_friendly": true
+  },
+  "child_info": {
+    "toddler_friendly": true,
+    "adaptation_notes": "Einige Scheiben vor dem Glasieren mit Sriracha/Zucker abnehmen und für Kleinkinder in kleine, weiche Streifen schneiden.",
+    "allergens_and_notes": [
+      "Gluten",
+      "Soja"
+    ]
+  },
+  "ingredients": [
+    {
+      "group": "Seitan-Teig",
+      "items": [
+        {
+          "name": "Seitan-Pulver (Seitan-Fix)",
+          "amount": 300,
+          "unit": "g",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Wasser",
+          "amount": 300,
+          "unit": "ml",
+          "note": "ca.",
+          "optional": false
+        },
+        {
+          "name": "Zwiebeln",
+          "amount": 2,
+          "unit": "Stück",
+          "note": "klein",
+          "optional": false
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 5,
+          "unit": "Zehe",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Piment",
+          "amount": 10,
+          "unit": "Stück",
+          "note": "Körner",
+          "optional": false
+        },
+        {
+          "name": "Zimt",
+          "amount": null,
+          "unit": "",
+          "note": "nach Geschmack",
+          "optional": false
+        },
+        {
+          "name": "Kardamom",
+          "amount": null,
+          "unit": "",
+          "note": "nach Geschmack",
+          "optional": false
+        },
+        {
+          "name": "Pflanzenöl",
+          "amount": null,
+          "unit": "",
+          "note": "etwas für den Teig und zum Wenden",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "Marinade & Glasur",
+      "items": [
+        {
+          "name": "Sojasauce",
+          "amount": null,
+          "unit": "",
+          "note": "zum Wenden und für die Glasur",
+          "optional": false
+        },
+        {
+          "name": "Ahornsirup",
+          "amount": null,
+          "unit": "",
+          "note": "für die Glasur",
+          "optional": false
+        },
+        {
+          "name": "Speisestärke",
+          "amount": null,
+          "unit": "",
+          "note": "für die Glasur",
+          "optional": false
+        },
+        {
+          "name": "Zucker",
+          "amount": null,
+          "unit": "",
+          "note": "für die Glasur",
+          "optional": false
+        },
+        {
+          "name": "Sriracha",
+          "amount": null,
+          "unit": "",
+          "note": "für die Glasur",
+          "optional": false
+        },
+        {
+          "name": "Wasser",
+          "amount": null,
+          "unit": "",
+          "note": "etwas für die Glasur",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "mise_en_place": [
+    "Backofen auf 200 °C vorheizen.",
+    "Zwiebeln und Knoblauch schälen."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "title": "Gewürzbasis pürieren",
+      "instruction": "Alle Teigzutaten außer dem Seitan-Pulver (Wasser, Zwiebeln, Knoblauch, Piment, Zimt, Kardamom, Öl) fein pürieren.",
+      "duration_minutes": 5,
+      "temperature_celsius": null
+    },
+    {
+      "step_number": 2,
+      "title": "Teig anrühren und ruhen lassen",
+      "instruction": "Die pürierte Mischung mit dem Seitan-Pulver verrühren (nicht zu lange kneten) und etwas ruhen bzw. gehen lassen.",
+      "duration_minutes": 10,
+      "temperature_celsius": null
+    },
+    {
+      "step_number": 3,
+      "title": "Formen und schneiden",
+      "instruction": "Den Teig flach drücken oder ausrollen und in ca. 5 mm dicke Scheiben schneiden.",
+      "duration_minutes": 5,
+      "temperature_celsius": null
+    },
+    {
+      "step_number": 4,
+      "title": "Wenden und backen",
+      "instruction": "Die Scheiben in einer Schüssel in Öl und Sojasauce wenden und bei 200 °C ca. 15 Minuten im Ofen backen, dabei zwischendurch wenden.",
+      "duration_minutes": 10,
+      "temperature_celsius": 200
+    },
+    {
+      "step_number": 5,
+      "title": "Glasieren",
+      "instruction": "Ahornsirup, Stärke, Zucker, Sriracha, Sojasauce und etwas Wasser verrühren, 5 Minuten vor Ende der Backzeit auf den Scheiben verteilen und fertig backen.",
+      "duration_minutes": 5,
+      "temperature_celsius": 200
+    }
+  ],
+  "notes": [
+    "Importiert aus Google Doc 'Seitan (shawarma style)'."
+  ],
+  "toddler_notes": "Einige Scheiben vor dem Glasieren mit Sriracha/Zucker abnehmen und für Kleinkinder in kleine, weiche Streifen schneiden.",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

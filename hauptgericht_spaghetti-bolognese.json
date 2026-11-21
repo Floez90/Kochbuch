@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.1",
+  "id": "hauptgericht_spaghetti-bolognese",
+  "title": "Spaghetti Bolognese",
+  "subtitle": "Klassische Pasta mit hausgemachter veganer Räuchertofu-Bolognese",
+  "category": "hauptgericht",
+  "tags": [
+    "vegan",
+    "pasta",
+    "bolognese",
+    "schnell"
+  ],
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 15,
+  "total_time_minutes": 25,
+  "servings": {
+    "amount": 4,
+    "unit": "Portionen"
+  },
+  "dietary": {
+    "vegan": true,
+    "gluten_free": false,
+    "sugar_free": true,
+    "toddler_friendly": true
+  },
+  "child_info": {
+    "toddler_friendly": true,
+    "adaptation_notes": "Bolognese für Kleinkinder ohne Rotwein kochen und sparsam salzen; Spaghetti bei Bedarf kürzer schneiden.",
+    "allergens_and_notes": [
+      "Gluten",
+      "Soja"
+    ]
+  },
+  "ingredients": [
+    {
+      "group": "Hauptzutaten",
+      "items": [
+        {
+          "name": "Bolognese",
+          "amount": null,
+          "unit": "",
+          "note": "siehe Grundrezept Bolognese",
+          "optional": false
+        },
+        {
+          "name": "Spaghetti / Nudeln",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "mise_en_place": [
+    "Nudelwasser aufsetzen."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "title": "Bolognese kochen",
+      "instruction": "Bolognese nach dem Grundrezept zubereiten.",
+      "duration_minutes": 15,
+      "temperature_celsius": null
+    },
+    {
+      "step_number": 2,
+      "title": "Nudeln kochen und servieren",
+      "instruction": "Nudeln al dente kochen und zusammen mit der Bolognese servieren.",
+      "duration_minutes": 10,
+      "temperature_celsius": null
+    }
+  ],
+  "notes": [
+    "Importiert aus Rezepte2.pdf."
+  ],
+  "toddler_notes": "Bolognese für Kleinkinder ohne Rotwein kochen und sparsam salzen; Spaghetti bei Bedarf kürzer schneiden.",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

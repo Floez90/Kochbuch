@@ -1,0 +1,130 @@
+{
+  "schema_version": "1.1",
+  "id": "hauptgericht_doener",
+  "title": "Döner",
+  "subtitle": "Hausgemachter veganer Döner mit Seitan oder Sojafleisch, frischem Gemüse und Cocktailsauce",
+  "category": "hauptgericht",
+  "tags": [
+    "vegan",
+    "doener",
+    "seitan",
+    "streetfood"
+  ],
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 15,
+  "total_time_minutes": 30,
+  "servings": {
+    "amount": 4,
+    "unit": "Portionen"
+  },
+  "dietary": {
+    "vegan": true,
+    "gluten_free": false,
+    "sugar_free": false,
+    "toddler_friendly": true
+  },
+  "child_info": {
+    "toddler_friendly": true,
+    "adaptation_notes": "Ohne Sambal Oelek und rohe Zwiebeln servieren; Gemüse weich oder fein geschnitten anbieten.",
+    "allergens_and_notes": [
+      "Gluten",
+      "Soja"
+    ]
+  },
+  "ingredients": [
+    {
+      "group": "Hauptzutaten",
+      "items": [
+        {
+          "name": "Seitan / Sojafleisch",
+          "amount": null,
+          "unit": "",
+          "note": "gut gewürzt und knusprig gebraten",
+          "optional": false
+        },
+        {
+          "name": "Dönertaschen / Wraps",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Salat",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Gurke",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Tomaten",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Krautsalat / Rotkohl",
+          "amount": null,
+          "unit": "",
+          "note": "roh",
+          "optional": false
+        },
+        {
+          "name": "Zwiebeln",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Cocktailsauce",
+          "amount": null,
+          "unit": "",
+          "note": "siehe Grundrezept Cocktailsauce",
+          "optional": false
+        },
+        {
+          "name": "Sambal Oelek",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "mise_en_place": [
+    "Salat, Gurke, Tomaten, Rotkohl und Zwiebeln schneiden.",
+    "Cocktailsauce nach Grundrezept anrühren."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "title": "Seitan/Sojafleisch braten",
+      "instruction": "Seitan oder Sojafleisch kräftig anbraten.",
+      "duration_minutes": 10,
+      "temperature_celsius": null
+    },
+    {
+      "step_number": 2,
+      "title": "Döner füllen",
+      "instruction": "Dönertaschen oder Wraps erwärmen und mit Cocktailsauce, Seitan/Sojafleisch, frischem Gemüse und nach Wunsch Sambal Oelek füllen.",
+      "duration_minutes": 5,
+      "temperature_celsius": null
+    }
+  ],
+  "notes": [
+    "Importiert aus Rezepte.pdf."
+  ],
+  "toddler_notes": "Ohne Sambal Oelek und rohe Zwiebeln servieren; Gemüse weich oder fein geschnitten anbieten.",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

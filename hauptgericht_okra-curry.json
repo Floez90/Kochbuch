@@ -1,0 +1,178 @@
+{
+  "schema_version": "1.1",
+  "id": "hauptgericht_okra-curry",
+  "title": "Okra-Curry",
+  "subtitle": "Aromatisches rotes Curry mit Okraschoten, Tomaten, Ingwer und Limettenblättern",
+  "category": "hauptgericht",
+  "tags": [
+    "vegan",
+    "curry",
+    "okra",
+    "reis"
+  ],
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 45,
+  "total_time_minutes": 60,
+  "servings": {
+    "amount": 4,
+    "unit": "Portionen"
+  },
+  "dietary": {
+    "vegan": true,
+    "gluten_free": true,
+    "sugar_free": true,
+    "toddler_friendly": true
+  },
+  "child_info": {
+    "toddler_friendly": true,
+    "adaptation_notes": "Schärfe der roten Currypaste moderat halten oder vor dem finalen Abschmecken eine milde Portion abnehmen; Limettenblätter vor dem Servieren entfernen.",
+    "allergens_and_notes": [
+      "Soja (bei optionalem Tofu)"
+    ]
+  },
+  "ingredients": [
+    {
+      "group": "Hauptzutaten",
+      "items": [
+        {
+          "name": "Okraschoten",
+          "amount": 1,
+          "unit": "Glas",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Gehackte Tomaten",
+          "amount": 1,
+          "unit": "Dose",
+          "note": "evtl. zusätzlich etwas passierte Tomaten",
+          "optional": false
+        },
+        {
+          "name": "Zwiebeln",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Knoblauch",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Ingwer",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Limettenblätter",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Currypaste (rot)",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Koriandersamen",
+          "amount": null,
+          "unit": "",
+          "note": "gemahlen",
+          "optional": false
+        },
+        {
+          "name": "Bockshornkleesamen",
+          "amount": null,
+          "unit": "",
+          "note": "gemahlen",
+          "optional": false
+        },
+        {
+          "name": "Reis",
+          "amount": null,
+          "unit": "",
+          "note": "als Beilage",
+          "optional": false
+        },
+        {
+          "name": "Tofu",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": true
+        },
+        {
+          "name": "Zucchini",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": true
+        },
+        {
+          "name": "Spinat",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "mise_en_place": [
+    "Zwiebeln, Knoblauch und Ingwer fein schneiden.",
+    "Optional Tofu und Zucchini zurechtschneiden."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "title": "Tofu und Zucchini anbraten",
+      "instruction": "Optional Tofu und Zucchini zurechtschneiden und mit etwas Öl und Currypaste anbraten.",
+      "duration_minutes": 8,
+      "temperature_celsius": null
+    },
+    {
+      "step_number": 2,
+      "title": "Reis kochen",
+      "instruction": "Reis nach Packungsanleitung kochen.",
+      "duration_minutes": 15,
+      "temperature_celsius": null
+    },
+    {
+      "step_number": 3,
+      "title": "Aromaten anbraten",
+      "instruction": "Zwiebeln glasig braten, anschließend Gewürze, Knoblauch und Ingwer hinzufügen und kurz mitbraten.",
+      "duration_minutes": 7,
+      "temperature_celsius": null
+    },
+    {
+      "step_number": 4,
+      "title": "Curry köcheln",
+      "instruction": "Okraschoten sowie gehackte Tomaten (und evtl. etwas passierte Tomaten) dazugeben und köcheln lassen.",
+      "duration_minutes": 20,
+      "temperature_celsius": null
+    },
+    {
+      "step_number": 5,
+      "title": "Abschmecken und servieren",
+      "instruction": "Mit Gewürzen (Salz, Pfeffer) abschmecken und mit Reis servieren.",
+      "duration_minutes": 5,
+      "temperature_celsius": null
+    }
+  ],
+  "notes": [
+    "Importiert aus Rezepte2.pdf (Mengenangaben nach Gefühl oder bei Bedarf ergänzen)."
+  ],
+  "toddler_notes": "Schärfe der roten Currypaste moderat halten oder vor dem finalen Abschmecken eine milde Portion abnehmen; Limettenblätter vor dem Servieren entfernen.",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

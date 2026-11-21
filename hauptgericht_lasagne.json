@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.1",
+  "id": "hauptgericht_lasagne",
+  "title": "Lasagne",
+  "subtitle": "Klassische vegane Lasagne mit hausgemachter Bolognese und Hefeschmelz",
+  "category": "hauptgericht",
+  "tags": [
+    "vegan",
+    "ofen",
+    "pasta",
+    "klassiker"
+  ],
+  "prep_time_minutes": 40,
+  "cook_time_minutes": 60,
+  "total_time_minutes": 100,
+  "servings": {
+    "amount": 4,
+    "unit": "Portionen"
+  },
+  "dietary": {
+    "vegan": true,
+    "gluten_free": false,
+    "sugar_free": true,
+    "toddler_friendly": true
+  },
+  "child_info": {
+    "toddler_friendly": true,
+    "adaptation_notes": "Falls Rotwein in der Bolognese verwendet wird, für Kleinkinder durch Gemüsebrühe ersetzen und insgesamt sparsam salzen.",
+    "allergens_and_notes": [
+      "Gluten",
+      "Soja",
+      "Senf (im Hefeschmelz)"
+    ]
+  },
+  "ingredients": [
+    {
+      "group": "Hauptzutaten",
+      "items": [
+        {
+          "name": "Lasagneplatten",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Bolognese",
+          "amount": null,
+          "unit": "",
+          "note": "siehe Grundrezept Bolognese",
+          "optional": false
+        },
+        {
+          "name": "Hefeschmelz",
+          "amount": null,
+          "unit": "",
+          "note": "siehe Grundrezept Hefeschmelz",
+          "optional": false
+        },
+        {
+          "name": "Zucchini",
+          "amount": null,
+          "unit": "",
+          "note": "in Scheiben",
+          "optional": true
+        },
+        {
+          "name": "Aubergine",
+          "amount": null,
+          "unit": "",
+          "note": "in Scheiben",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "mise_en_place": [
+    "Bolognese nach Grundrezept vorbereiten.",
+    "Hefeschmelz nach Grundrezept vorbereiten.",
+    "Optional Zucchini und Aubergine in dünne Scheiben schneiden."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "title": "Komponenten zubereiten",
+      "instruction": "Bolognese und Hefeschmelz nach den jeweiligen Grundrezepten zubereiten.",
+      "duration_minutes": 35,
+      "temperature_celsius": null
+    },
+    {
+      "step_number": 2,
+      "title": "Schichten und backen",
+      "instruction": "Bolognese, Lasagneplatten (und optional Gemüse) abwechselnd in eine Auflaufform schichten, mit Hefeschmelz abschließen und im Ofen goldbraun backen.",
+      "duration_minutes": 45,
+      "temperature_celsius": 180
+    }
+  ],
+  "notes": [
+    "Importiert aus Rezepte2.pdf. Verweist auf die Grundrezepte Bolognese und Hefeschmelz."
+  ],
+  "toddler_notes": "Falls Rotwein in der Bolognese verwendet wird, für Kleinkinder durch Gemüsebrühe ersetzen und insgesamt sparsam salzen.",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.1",
+  "id": "hauptgericht_sahne-zwiebelsauce-linguine-kraeuterseitlinge",
+  "title": "Sahne-Zwiebelsauce an Linguine mit Kräuterseitlingen",
+  "subtitle": "Cremig pürierte Zwiebel-Sojasahne-Sauce mit scharf angebratenen Kräuterseitlingen",
+  "category": "hauptgericht",
+  "tags": [
+    "vegan",
+    "pasta",
+    "pilze",
+    "kraeuterseitlinge",
+    "schnell"
+  ],
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 20,
+  "total_time_minutes": 30,
+  "servings": {
+    "amount": 4,
+    "unit": "Portionen"
+  },
+  "dietary": {
+    "vegan": true,
+    "gluten_free": false,
+    "sugar_free": true,
+    "toddler_friendly": true
+  },
+  "child_info": {
+    "toddler_friendly": true,
+    "adaptation_notes": "Vor dem großzügigen Salzen und Pfeffern eine Portion Sauce abnehmen; Pilze für Kleinkinder weich garen und klein schneiden.",
+    "allergens_and_notes": [
+      "Gluten",
+      "Soja",
+      "Pilze"
+    ]
+  },
+  "ingredients": [
+    {
+      "group": "Hauptzutaten",
+      "items": [
+        {
+          "name": "Linguine",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Kräuterseitlinge",
+          "amount": null,
+          "unit": "",
+          "note": "in 0,5 cm Scheiben",
+          "optional": false
+        },
+        {
+          "name": "Zwiebeln",
+          "amount": null,
+          "unit": "",
+          "note": "fein gehackt",
+          "optional": false
+        },
+        {
+          "name": "Knoblauch",
+          "amount": null,
+          "unit": "",
+          "note": "fein gehackt",
+          "optional": false
+        },
+        {
+          "name": "Sojasahne",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Gemüsebrühe",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Salz",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Pfeffer",
+          "amount": null,
+          "unit": "",
+          "note": "reichlich",
+          "optional": false
+        },
+        {
+          "name": "Teriyaki-Sauce",
+          "amount": null,
+          "unit": "",
+          "note": "zum Ablöschen der Pilze",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "mise_en_place": [
+    "Zwiebeln und Knoblauch fein hacken.",
+    "Kräuterseitlinge in 0,5 cm dicke Scheiben schneiden.",
+    "Nudelwasser aufsetzen."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "title": "Sauce kochen und pürieren",
+      "instruction": "Zwiebeln und Knoblauch mit Öl anbraten, Gemüsebrühe und Sojasahne hinzufügen, fein pürieren und mit Salz und viel Pfeffer abschmecken.",
+      "duration_minutes": 12,
+      "temperature_celsius": null
+    },
+    {
+      "step_number": 2,
+      "title": "Nudeln kochen",
+      "instruction": "Linguine al dente kochen.",
+      "duration_minutes": 10,
+      "temperature_celsius": null
+    },
+    {
+      "step_number": 3,
+      "title": "Kräuterseitlinge braten",
+      "instruction": "Kräuterseitlinge in 0,5 cm Scheiben scharf anbraten und optional mit Teriyaki-Sauce ablöschen. Mit Nudeln und Sauce servieren.",
+      "duration_minutes": 8,
+      "temperature_celsius": null
+    }
+  ],
+  "notes": [
+    "Importiert aus Rezepte2.pdf."
+  ],
+  "toddler_notes": "Vor dem großzügigen Salzen und Pfeffern eine Portion Sauce abnehmen; Pilze für Kleinkinder weich garen und klein schneiden.",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

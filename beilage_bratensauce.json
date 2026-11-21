@@ -1,0 +1,130 @@
+{
+  "schema_version": "1.1",
+  "id": "beilage_bratensauce",
+  "title": "Bratensauce (Grundrezept)",
+  "subtitle": "Kräftige vegane Bratensauce mit Champignons, Rotwein, Gemüsebrühe und Thymian",
+  "category": "beilage",
+  "tags": [
+    "vegan",
+    "grundrezept",
+    "sauce",
+    "pilze"
+  ],
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 20,
+  "total_time_minutes": 30,
+  "servings": {
+    "amount": 4,
+    "unit": "Portionen"
+  },
+  "dietary": {
+    "vegan": true,
+    "gluten_free": false,
+    "sugar_free": true,
+    "toddler_friendly": false
+  },
+  "child_info": {
+    "toddler_friendly": false,
+    "adaptation_notes": "Enthält Rotwein; für Kleinkinder Rotwein durch Gemüsebrühe und etwas Trauben- oder Apfelsaft ersetzen.",
+    "allergens_and_notes": [
+      "Gluten (bei Mehl)",
+      "Pilze",
+      "Alkohol (Rotwein)"
+    ]
+  },
+  "ingredients": [
+    {
+      "group": "Hauptzutaten",
+      "items": [
+        {
+          "name": "Champignons",
+          "amount": null,
+          "unit": "",
+          "note": "klein geschnitten",
+          "optional": false
+        },
+        {
+          "name": "Rotwein",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Gemüsebrühe",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Knoblauch",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Margarine",
+          "amount": null,
+          "unit": "",
+          "note": "vegan",
+          "optional": false
+        },
+        {
+          "name": "Öl (Buttergeschmack)",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Thymian",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": false
+        },
+        {
+          "name": "Mehl / Speisestärke",
+          "amount": null,
+          "unit": "",
+          "note": "zum Binden",
+          "optional": false
+        },
+        {
+          "name": "Möhre",
+          "amount": null,
+          "unit": "",
+          "note": "",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "mise_en_place": [
+    "Champignons, Knoblauch und optional Möhre klein schneiden."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "title": "Röstaromen entwickeln",
+      "instruction": "Champignons, Knoblauch (und optional Möhre) in Margarine und Öl mit Buttergeschmack kräftig anbraten.",
+      "duration_minutes": 8,
+      "temperature_celsius": null
+    },
+    {
+      "step_number": 2,
+      "title": "Ablöschen und binden",
+      "instruction": "Mit Mehl/Stärke bestäuben, mit Rotwein und Gemüsebrühe ablöschen, Thymian zugeben und sämig einköcheln lassen (nach Wunsch passieren oder pürieren).",
+      "duration_minutes": 12,
+      "temperature_celsius": null
+    }
+  ],
+  "notes": [
+    "Importiert aus Rezepte.pdf (Grundrezept passend zu Klößen mit Rotkohl und Mockduck)."
+  ],
+  "toddler_notes": "Enthält Rotwein; für Kleinkinder Rotwein durch Gemüsebrühe und etwas Trauben- oder Apfelsaft ersetzen.",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
